@@ -10,9 +10,9 @@ To be the best!
 各大比赛题解
 -----
 
-|比赛|年份|方向|题|题解(write-ups)|备用|
+|比赛|年份|方向|题目|题解(write-ups)|备用|
 |:--:|:--:|:--:|:--|:-------------|:---|
-|CTF	|全|全||GitHub https://github.com/ctfs|请百度|
+|CTF	|全部|全部||GitHub https://github.com/ctfs|请百度|
 |DDCTF	|2018|Web||官方1 https://mp.weixin.qq.com/s/D2sEREvhGyewiSqLCWYVxA|[官方2](https://www.anquanke.com/post/id/144879)|
 |DDCTF	|2018|逆向||官方1 https://mp.weixin.qq.com/s/7tyU8YMMyRoSkZcI2ZjrhA|[官方2](https://www.anquanke.com/post/id/145553)|
 |DDCTF	|2018|安卓||官方1 https://mp.weixin.qq.com/s/g8P6w2bBYZF0Th6CZ4mcDA|[官方2](https://www.anquanke.com/post/id/146536)|
