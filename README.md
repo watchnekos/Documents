@@ -7,7 +7,7 @@
 
 To be the best!
 
-各大比赛题解
+题解(WRITE-UPS)
 -----
 
 |比赛|年份|方向|题目|题解(write-ups)|备用|
