@@ -18,8 +18,8 @@ To be the best!
 |DDCTF	|2018|安卓|官方1 https://mp.weixin.qq.com/s/g8P6w2bBYZF0Th6CZ4mcDA|[官方2](https://www.anquanke.com/post/id/146536)|
 |DDCTF	|2018|杂项|官方 https://mp.weixin.qq.com/s/Fg6K93Y-fR66HVLfJHYDhQ|[网络](https://www.cnblogs.com/kagari/p/8889412.html)|
 |DDCTF	|2018|PWN|官方 https://mp.weixin.qq.com/s/lWZTB0-Kp5to_1ZWiv-bSA||
-|DDCTF	|2019|Web|||
-|DDCTF	|2019|逆向|||
-|DDCTF	|2019|安卓|||
-|DDCTF	|2019|杂项|||
+|DDCTF	|2019|Web|官方 (1-4)https://dwz.cn/B0kHUNZt (5-8)https://dwz.cn/DlZSBAkh||
+|DDCTF	|2019|逆向|官方 https://dwz.cn/S494H4as||
+|DDCTF	|2019|安卓|官方 https://dwz.cn/Tbvdx8pu||
+|DDCTF	|2019|杂项|官方 https://dwz.cn/JcZ0DV2N||
 |\ |\ |\ |未完，待编辑，稍后补充题目下载||
