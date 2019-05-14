@@ -22,4 +22,5 @@ To be the best!
 |DDCTF	|2019|逆向|官方 https://dwz.cn/S494H4as||
 |DDCTF	|2019|安卓|官方 https://dwz.cn/Tbvdx8pu||
 |DDCTF	|2019|杂项|官方 https://dwz.cn/JcZ0DV2N||
+|CISCN  |2019|全部|     https://dwz.cn/EPXXtJ83||
 |\ |\ |\ |未完，待编辑，稍后补充题目下载||
